@@ -1,0 +1,1336 @@
+Uri: https://fonts.googleapis.com/css?family=Dosis:300,400,600,700|Open+Sans:300,400,600,700
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl2xMB.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\dosis\v27\HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl2xMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl2xMB.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\dosis\v27\HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl2xMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl2xMB.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\dosis\v27\HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl2xMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xMB.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\dosis\v27\HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDU79W1lu5f6PIiuMqNfT1C6M0e_lq1ECY
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/404.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\404.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/about-us.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\about-us.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/css/kidz.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\css\kidz.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/avator/avator-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\avator\avator-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/avator/avator-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\avator\avator-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/avator/avator-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\avator\avator-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/avator/avator-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\avator\avator-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/avator/avator-img5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\avator\avator-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/background/avator-bg.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\background\avator-bg.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/background/background-img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\background\background-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/background/background-img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\background\background-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/background/countup-bg-img.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\background\countup-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/background/footer-bg-img-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\background\footer-bg-img-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/background/footer-bg-img.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\background\footer-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/background/page-title-bg-img.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\background\page-title-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-1/img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-1\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-1/img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-1\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-1/img-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-1\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-1/img-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-1\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/bg-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\bg-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/bg-2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\bg-2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/bg-3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\bg-3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/lg-img-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\lg-img-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/lg-img-2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\lg-img-2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/lg-img-3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\lg-img-3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/lg-img-4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\lg-img-4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/lg-img-5.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\lg-img-5.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/sm-icon-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\sm-icon-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/sm-icon-2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\sm-icon-2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/sm-icon-3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\sm-icon-3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/sm-icon-4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\sm-icon-4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/sm-icon-5.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\sm-icon-5.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/sm-icon-6.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\sm-icon-6.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-2/sm-icon-7.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-2\sm-icon-7.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-3/img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-3\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-3/img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-3\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-3/img-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-3\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-3/img-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-3\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/bg-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\bg-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/lg-img-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\lg-img-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/lg-img-2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\lg-img-2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/lg-img-3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\lg-img-3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/lg-img-4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\lg-img-4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/lg-img-5.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\lg-img-5.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/sm-icon-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\sm-icon-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/sm-icon-2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\sm-icon-2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/sm-icon-3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\sm-icon-3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/sm-icon-4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\sm-icon-4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/sm-icon-5.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\sm-icon-5.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/sm-icon-6.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\sm-icon-6.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/banner/slider-4/sm-icon-7.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\banner\slider-4\sm-icon-7.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-course-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-course-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-course-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-course-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-course-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-course-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-course-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-course-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-single-blog.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-single-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img-12.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img-12.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img10.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img11.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img7.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img8.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/blog/blog-sm-img9.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\blog\blog-sm-img9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/brands/brands-img1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\brands\brands-img1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/brands/brands-img2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\brands\brands-img2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/brands/brands-img3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\brands\brands-img3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/brands/brands-img4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\brands\brands-img4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/brands/brands-img5.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\brands\brands-img5.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/component/component-img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\component\component-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/component/component-img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\component\component-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/courses/course-count.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\courses\course-count.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/courses/courses-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\courses\courses-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/courses/courses-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\courses\courses-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/courses/courses-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\courses\courses-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/courses/courses-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\courses\courses-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/credit-card/credit-card-img1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\credit-card\credit-card-img1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/credit-card/credit-card-img2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\credit-card\credit-card-img2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/credit-card/credit-card-img3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\credit-card\credit-card-img3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/credit-card/credit-card-img4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\credit-card\credit-card-img4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/error.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\error.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/events/events-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\events\events-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/events/events-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\events\events-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/events/events-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\events\events-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/events/events-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\events\events-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/events/events-lg-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\events\events-lg-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/events/events-lg-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\events\events-lg-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/events/events-xl-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\events\events-xl-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/feature-course-single-title.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\feature-course-single-title.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-course-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-course-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-course-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-course-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-course-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-course-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-course-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-course-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-img1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-img1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-img2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-img2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-img3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-img3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-img4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-img4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-img5.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-img5.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/features/features-team-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\features\features-team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img7.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-img8.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img7.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/gallery/gallery-lg-img8.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\gallery\gallery-lg-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/logo-daycare.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\logo-daycare.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/logo-fashion.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\logo-fashion.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/logo-footer.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\logo-footer.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/logo-school.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\logo-school.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/logo-toys.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\logo-toys.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/logo.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/logov2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\logov2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/patterns/001.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\patterns\001.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/patterns/002.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\patterns\002.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/patterns/003.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\patterns\003.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/patterns/004.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\patterns\004.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/patterns/005.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\patterns\005.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/patterns/006.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\patterns\006.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/pricing-table/pricing-table-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\pricing-table\pricing-table-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/pricing-table/pricing-table-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\pricing-table\pricing-table-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/pricing-table/pricing-table-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\pricing-table\pricing-table-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img7.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-img8.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/product-sm.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\product-sm.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-baby-img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-baby-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-baby-img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-baby-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-baby-img-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-baby-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-baby-img-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-baby-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-baby-img-5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-baby-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-baby-img-6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-baby-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-boy-img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-boy-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-boy-img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-boy-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-boy-img-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-boy-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-boy-img-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-boy-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-boy-img-5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-boy-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-boy-img-6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-boy-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img7.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-category-img8.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-category-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-girl-img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-girl-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-girl-img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-girl-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-girl-img-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-girl-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-girl-img-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-girl-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-girl-img-5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-girl-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-girl-img-6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-girl-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-image-1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-image-1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-image-2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-image-2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-image-3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-image-3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-preview01.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-preview01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img10.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img11.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img12.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img12.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img7.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img8.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-single-cat-slider-img9.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-single-cat-slider-img9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-t-d-img-1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-t-d-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-t-d-img-2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-t-d-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-t-d-img-3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-t-d-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-t-d-img-4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-t-d-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-t-d-img-5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-t-d-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-t-d-img-6.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-t-d-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-thumb01.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-thumb01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-thumb02.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-thumb02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/products/products-thumb03.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\products\products-thumb03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/testimonial/1.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\testimonial\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/testimonial/2.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\testimonial\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/testimonial/3.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\testimonial\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/testimonial/4.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\testimonial\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/img/testimonial/5.jpg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\img\testimonial\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/js/kidz.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\js\kidz.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/optionswitch.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\optionswitch.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/optionswitcher.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\optionswitcher.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/pattern1.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\pattern1.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/pattern2.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\pattern2.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/pattern3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\pattern3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/pattern4.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\pattern4.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/pattern5.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\pattern5.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/pattern6.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\pattern6.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/pattern7.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\pattern7.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/taf-settings.svg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\taf-settings.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/options/taf-tiems.svg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\options\taf-tiems.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/animate/animate.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\animate\animate.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fancybox/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fancybox/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/css/all.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/fontawesome-5.15.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\fontawesome-5.15.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/images-loaded/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\images-loaded\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/isotope/isotope.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\isotope\isotope.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/isotope/isotope.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\isotope\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/lazyestload/lazyestload.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\lazyestload\lazyestload.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/no-ui-slider/nouislider.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\no-ui-slider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/no-ui-slider/nouislider.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\no-ui-slider\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/owl-carousel/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/owl-carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/owl-carousel/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\owl-carousel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/select2/js/select2.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\select2\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/smoothscroll/SmoothScroll.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\smoothscroll\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/syotimer/jquery.syotimer.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\syotimer\jquery.syotimer.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/velocity/velocity.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\velocity\velocity.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/assets/plugins/wow/wow.min.js
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\assets\plugins\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-grid-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-grid-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-grid-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-grid-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-grid.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-grid.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-list-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-list-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-list-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-list-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-list.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-list.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-single-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-single-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-single-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-single-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/blog-single.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\blog-single.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/coming-soon.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\coming-soon.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/component-default.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\component-default.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/contact-us.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\contact-us.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/course-list-fullwidth.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\course-list-fullwidth.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/course-list-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\course-list-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/course-list-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\course-list-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/course-single-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\course-single-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/course-single-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\course-single-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/course-single.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\course-single.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/courses-grid-full.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\courses-grid-full.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/courses-grid-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\courses-grid-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/courses-grid-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\courses-grid-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/event-single-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\event-single-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/event-single-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\event-single-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/events.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\events.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/faq.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\faq.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/index-v2.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\index-v2.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/index-v3.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\index-v3.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/index-v4.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\index-v4.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/index.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\index.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/photo-gallery.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\photo-gallery.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/pricing-table.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\pricing-table.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-cart.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-cart.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-category.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-category.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-checkout-step-1.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-checkout-step-1.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-checkout-step-2.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-checkout-step-2.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-checkout-step-3.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-checkout-step-3.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-left-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-right-sidebar.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/product-single.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\product-single.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/products.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\products.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/search-result.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\search-result.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/services-details.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\services-details.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/services.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\services.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/sign-up-or-login.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\sign-up-or-login.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/teachers-details.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\teachers-details.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/teachers.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\teachers.html
+Content Type: text/html
+
+Uri: https://themes.iamabdus.com/kidz/3.0/testimonial.html
+File Name: C:\Downloaded Web Sites2\themes.iamabdus.com\kidz\3.0\testimonial.html
+Content Type: text/html
+
